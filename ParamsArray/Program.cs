@@ -24,7 +24,7 @@ namespace ParamsArray
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Exception: {0}", ex.Message);
+                Console.WriteLine("Exception!!!: {0}", ex.Message);
             }
         }
     }
